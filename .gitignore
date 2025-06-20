@@ -37,3 +37,15 @@ db.sqlite3
 media/
 staticfiles/
 
+# Frontend junk
+frontend/node_modules/
+frontend/.DS_Store
+frontend/*.log
+frontend/bun.lockb
+
+# General
+**/node_modules/
+*.log
+.DS_Store
+*.local
+
